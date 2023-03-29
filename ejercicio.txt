@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hola mundo 2 fghedwi
 https://xdlatino.blogspot.com/2013/09/un-show-mas-temporada-1-capitulo-11.html
+=======
+hola mundo 2 fghedwi
+>>>>>>> f64da657daac53f52221268eb3042d272047a69a
